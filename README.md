@@ -5,13 +5,13 @@
 
 # STEPS TO RUN
 
-## FRONTEND
+## FRONT-END
 
 cd frontend\
 cd client\
 npm run dev
 
-#BACKEND
+## BACK-END
 
 cd backend\
 npm run dev
