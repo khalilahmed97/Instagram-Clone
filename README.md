@@ -7,11 +7,11 @@
 
 ## FRONTEND
 
-cd frontend
-cd client
-npm run dev
+cd frontend\
+cd client\
+npm run dev\
 
 #BACKEND
 
-cd backend
-npm runc
+cd backend\
+npm run dev
