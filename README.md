@@ -1,6 +1,6 @@
 # PROJECT SCREENSHOT
 
-![image](https://github.com/khalilahmed97/Instagram-Clone/assets/101020879/e9043a32-b425-47a7-b3aa-63b820d6b39c)
+![image](https://github.com/khalilahmed97/Instagram-Clone/assets/101020879/68b1d101-0450-4d60-bf8e-2723349e23a7)
 
 
 # STEPS TO RUN
