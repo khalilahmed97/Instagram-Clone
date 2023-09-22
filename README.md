@@ -9,7 +9,7 @@
 
 cd frontend\
 cd client\
-npm run dev\
+npm run dev
 
 #BACKEND
 
